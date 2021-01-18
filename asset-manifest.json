@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/LevelUP-Club.github.io/static/css/main.c7bb4aff.chunk.css",
+    "main.js": "/LevelUP-Club.github.io/static/js/main.62696d52.chunk.js",
+    "main.js.map": "/LevelUP-Club.github.io/static/js/main.62696d52.chunk.js.map",
+    "runtime-main.js": "/LevelUP-Club.github.io/static/js/runtime-main.295699a1.js",
+    "runtime-main.js.map": "/LevelUP-Club.github.io/static/js/runtime-main.295699a1.js.map",
+    "static/js/2.d3b2bad9.chunk.js": "/LevelUP-Club.github.io/static/js/2.d3b2bad9.chunk.js",
+    "static/js/2.d3b2bad9.chunk.js.map": "/LevelUP-Club.github.io/static/js/2.d3b2bad9.chunk.js.map",
+    "index.html": "/LevelUP-Club.github.io/index.html",
+    "precache-manifest.20a3581e08b0bae22bc1628f44090ede.js": "/LevelUP-Club.github.io/precache-manifest.20a3581e08b0bae22bc1628f44090ede.js",
+    "service-worker.js": "/LevelUP-Club.github.io/service-worker.js",
+    "static/css/main.c7bb4aff.chunk.css.map": "/LevelUP-Club.github.io/static/css/main.c7bb4aff.chunk.css.map",
+    "static/js/2.d3b2bad9.chunk.js.LICENSE.txt": "/LevelUP-Club.github.io/static/js/2.d3b2bad9.chunk.js.LICENSE.txt",
+    "static/media/logolevelup.png": "/LevelUP-Club.github.io/static/media/logolevelup.8599e532.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.295699a1.js",
+    "static/js/2.d3b2bad9.chunk.js",
+    "static/css/main.c7bb4aff.chunk.css",
+    "static/js/main.62696d52.chunk.js"
+  ]
+}
