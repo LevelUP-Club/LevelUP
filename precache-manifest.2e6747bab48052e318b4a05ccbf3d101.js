@@ -1,27 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "16e7703de32a094d79e9ab06e3e0a931",
+    "revision": "86a5096fb41470e265b4f6ffe0346cc2",
     "url": "/LevelUP-Club.github.io/index.html"
   },
   {
-    "revision": "27826d92b52d5fe6c869",
+    "revision": "cce25c5aeb9ebb1dd9bd",
     "url": "/LevelUP-Club.github.io/static/css/main.c7bb4aff.chunk.css"
   },
   {
-    "revision": "677e477ecd6aba6f53ab",
-    "url": "/LevelUP-Club.github.io/static/js/2.d3b2bad9.chunk.js"
+    "revision": "c0a8a7428ecc61acf27b",
+    "url": "/LevelUP-Club.github.io/static/js/2.1290cf3c.chunk.js"
   },
   {
     "revision": "29eb69a08ea4198f7b46e1db8a3d5045",
-    "url": "/LevelUP-Club.github.io/static/js/2.d3b2bad9.chunk.js.LICENSE.txt"
+    "url": "/LevelUP-Club.github.io/static/js/2.1290cf3c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "27826d92b52d5fe6c869",
-    "url": "/LevelUP-Club.github.io/static/js/main.62696d52.chunk.js"
+    "revision": "cce25c5aeb9ebb1dd9bd",
+    "url": "/LevelUP-Club.github.io/static/js/main.7dcc76f2.chunk.js"
   },
   {
     "revision": "c25088059852697e8ef2",
     "url": "/LevelUP-Club.github.io/static/js/runtime-main.295699a1.js"
+  },
+  {
+    "revision": "cf5c6d934091a294606fe9cef6de0a79",
+    "url": "/LevelUP-Club.github.io/static/media/levelupbackground.cf5c6d93.jpg"
   },
   {
     "revision": "8599e5328d925ae05e32b41d5a112bfb",
