@@ -1,3 +1,6 @@
+
+
+
 // Navigation Bar SECTION
 const navBar = {
   show: true,
@@ -9,30 +12,23 @@ const mainBody = {
   firstName: "Level UP",
   middleName: "",
   lastName: "",
-  message: " Let's level UP together ",
+  message: "  Let's Level up together " ,
   icons: [
     {
       image: "fa-github",
-      url: "#",
+      url: "https://github.com/LevelUP-Club",
     },
     {
       image: "fa-facebook",
-      url: "#",
+      url: "https://www.facebook.com/levelupclubisetkl",
     },
-    {
-      image: "fa-instagram",
-      url: "#",
-    },
-    {
-      image: "fa-twitter",
-      url: "#",
-    },
+  
+    
   ],
 };
 
 
 const about = {
-  background: require("../editable-stuff/logolevelup.png"),
   show: true,
   heading: "About US",
   imageLink: require("../editable-stuff/logolevelup.png"),

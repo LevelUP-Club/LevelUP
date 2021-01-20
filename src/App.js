@@ -29,11 +29,12 @@ const Home = React.forwardRef((props, ref) => {
       />
       {about.show && (
         <AboutMe
+          backgroundImage={about.backgroundImage}
           heading={about.heading}
           message={about.message}
           link={about.imageLink}
           imgSize={about.imageSize}
-          resume={about.resume}
+          
         />
       )}
       {leadership.show && (
